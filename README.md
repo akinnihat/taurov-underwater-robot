@@ -1,4 +1,4 @@
-# underwater-robot-mec319
+# TauRov Underwater Robot
 
 This software has been developed in order to control an Autonomous Underwater Vehicle (AUV) for object detection and navigation tasks, specifically tailored for competing in the Teknofest Unmanned Underwater Systems Advanced Category. The project has evolved over time, utilizing various hardware configurations such as Raspberry Pi (2021) and Jetson Nano (2022) and different vehicle frames. Key hardware components include Pixhawk for flight control and Arduino. The software stack is developed using Python and C++ within the ROS2 framework, leveraging libraries such as OpenCV for computer vision tasks and Pymavlink for communication with the flight controller.
 
